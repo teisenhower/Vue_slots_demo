@@ -1,24 +1,19 @@
-# slots_demo
+# Slots Demo
 
-## Project setup
+### Clone project
+```
+git clone git@github.com:teisenhower/Vue_slots_demo.git
+```
+### Navigate into project directory
+```
+cd Vue_slots_demo
+```
+### Install dependencies
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Run project locally
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
